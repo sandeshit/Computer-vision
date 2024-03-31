@@ -1,1 +1,1 @@
-This is simple computer vision project using landmarks
+These are the computer vision projects that I have done
